@@ -1,2 +1,2 @@
 # k-wiki-backups
-XML backups of the K wik, hosted on Miraheze.
+XML backups of the K wiki, hosted on Miraheze.
